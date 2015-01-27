@@ -1,0 +1,14 @@
+c:\visual studio\sample\calculator\calculator\bin\Debug\calculator.dll
+c:\visual studio\sample\calculator\calculator\bin\Debug\calculator.pdb
+c:\visual studio\sample\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\visual studio\sample\calculator\calculator\obj\Debug\calculator.dll
+c:\visual studio\sample\calculator\calculator\obj\Debug\calculator.pdb
+C:\Balaji\learning\sample\calculator\calculator\bin\Debug\calculator.dll
+C:\Balaji\learning\sample\calculator\calculator\bin\Debug\calculator.pdb
+C:\Balaji\learning\sample\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Balaji\learning\sample\calculator\calculator\obj\Debug\calculator.dll
+C:\Balaji\learning\sample\calculator\calculator\obj\Debug\calculator.pdb
+C:\soumya\learning\sample\calculator\calculator\bin\Debug\calculator.dll
+C:\soumya\learning\sample\calculator\calculator\bin\Debug\calculator.pdb
+C:\soumya\learning\sample\calculator\calculator\obj\Debug\calculator.dll
+C:\soumya\learning\sample\calculator\calculator\obj\Debug\calculator.pdb

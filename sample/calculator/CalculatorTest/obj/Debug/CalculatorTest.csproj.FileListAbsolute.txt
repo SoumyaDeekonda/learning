@@ -1,0 +1,21 @@
+C:\visual studio\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\visual studio\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\visual studio\sample\calculator\CalculatorTest\bin\Debug\calculator.dll
+C:\visual studio\sample\calculator\CalculatorTest\bin\Debug\calculator.pdb
+C:\visual studio\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\visual studio\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\visual studio\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\Balaji\learning\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Balaji\learning\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Balaji\learning\sample\calculator\CalculatorTest\bin\Debug\calculator.dll
+C:\Balaji\learning\sample\calculator\CalculatorTest\bin\Debug\calculator.pdb
+C:\Balaji\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Balaji\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Balaji\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
+C:\soumya\learning\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\soumya\learning\sample\calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\soumya\learning\sample\calculator\CalculatorTest\bin\Debug\calculator.dll
+C:\soumya\learning\sample\calculator\CalculatorTest\bin\Debug\calculator.pdb
+C:\soumya\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\soumya\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\soumya\learning\sample\calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
